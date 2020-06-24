@@ -1,5 +1,5 @@
 # Mask-Detector-CNN-opencv
-lockdown impact
+My first OpenCV project
 
 
 
